@@ -73,9 +73,10 @@ h1{
 
 }
 img{
-margin-right: 400px;
-margin-bottom: 50px;
-}
+    margin-right: 400px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    }
 .pfirst{
     font-size: 18px;
     color: #e5e7e8;
